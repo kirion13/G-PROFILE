@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854
+🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854<br> 📫 How to reach me kirioncore@gmail.com
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100059873888222) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mazenahmed81549/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazen-ahmed-2823791b2/) 
 
