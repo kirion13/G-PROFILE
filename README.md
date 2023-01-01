@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854<br> 📫 How to reach me kirioncore@gmail.com<br> 📄 Know about my experiences((https://drive.google.com/file/d/1LroCNEw97bS_tbsCl-bu6HaizZ4BIWtb/view?usp=sharing)"CV")
+🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854<br> 📫 How to reach me kirioncore@gmail.com<br> 📄 Know about my experiences[From my CV](https://drive.google.com/file/d/1LroCNEw97bS_tbsCl-bu6HaizZ4BIWtb/view?usp=sharing "CV")
 
 
 ## 🌐 Socials:
