@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854<br> 📫 How to reach me eng.mazenk01@gmail.com<br> 📄 **Explore My CV**: Curious about my experiences and the projects I've worked on? Check out my CV [here](https://drive.google.com/file/d/1EXXMM2wMTA8VZka-GNHQN0us9ynyFl2h/view?usp=sharing).
+🔭 I’m currently learning Frontend web Developer<br>🌱 I’m currently learning<br>💬 Ask me about Anything<br>⚡ My Discord: mazen#6854<br> 📫 How to reach me eng.mazenk01@gmail.com<br> 📄 **Explore My CV**: Check out my CV [here](https://drive.google.com/file/d/1EXXMM2wMTA8VZka-GNHQN0us9ynyFl2h/view?usp=sharing).
 
 
 ## 🌐 Socials:
